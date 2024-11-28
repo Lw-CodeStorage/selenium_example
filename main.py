@@ -102,5 +102,3 @@ print(result)
 # alert_is_present: 等待一個彈窗 (alert) 出現。
 
 
-# while True:
-#     pass
